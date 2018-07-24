@@ -1,6 +1,11 @@
-#include "studio.h"
+//#include "studio.h"
 
 void main()
 {
-   printf("Helloworld!\n");
+   int i = 0;
+   for(; i < 10; i++)
+   {
+      i++;
+   }
+  // printf("Helloworld!\n");
 }
