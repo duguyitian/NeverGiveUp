@@ -7,5 +7,6 @@ void main()
    {
       i++;
    }
+  //need gcc to work
   // printf("Helloworld!\n");
 }
